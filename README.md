@@ -1,4 +1,4 @@
-# John W
+# FatFiredProgrammer
 
 Retired software engineer and architect, roughly forty years of it. EE undergrad, most of the
 career in C# and .NET. Retired in 2019 and now build things because they're interesting rather
