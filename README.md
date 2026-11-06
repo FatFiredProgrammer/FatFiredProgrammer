@@ -50,6 +50,8 @@ FIRE and the withdrawal-phase maths · retirement tax planning · software archi
 where the boundaries go and why · agentic development and MCP · embedded work close to the metal ·
 koi and pond chemistry · farm equipment that ought to work and doesn't
 
+**Favorites** — [the repos I've starred](https://github.com/FatFiredProgrammer?tab=stars)
+
 ## Not looking for work
 
 Genuinely retired. Always happy to talk shop.
