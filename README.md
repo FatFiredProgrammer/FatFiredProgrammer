@@ -2,7 +2,7 @@
 
 Retired software engineer and architect, roughly forty years of it. EE undergrad, most of the
 career in C# and .NET. Retired in 2019 and now build things because they're interesting rather
-than because someone is paying for them. Omaha, Nebraska.
+than because someone is paying for them. Columbus, Nebraska.
 
 The handle is the thesis: fat FIRE — financially independent, retired early, with enough margin
 that the interesting question stopped being *can I afford this* and became *what should I build
